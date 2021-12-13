@@ -1,0 +1,46 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+body
+{
+    direction:rtl;
+    font-family:IRANSansWeb;
+}
+.header
+{
+    width:100%;
+    padding:20px;
+    background-color: #F7F9FA;
+}
+@font-face {
+    font-family:'IRANSansWeb';
+    src:url('../fonts/IRANSansWeb.eot');
+    src:url('../fonts/IRANSansWeb.eot?#iefix') format("embedded-opentype"),
+    url('../fonts/IRANSansWeb.woff') format("woff"),
+    url('../fonts/IRANSansWeb.ttf') format("truetype");
+}
+.product_row
+{
+    border:1px solid gainsboro;
+    width:100%;
+    float: right;
+}
+.product_row .col-md-3 img
+{
+    width:100%;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.product_row .col-md-9 p
+{
+}
+.product_row .col-md-9 p a
+{
+    color:black;
+}
+.btn
+{
+    border-radius:0px !important;
+}

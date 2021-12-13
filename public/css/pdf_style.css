@@ -1,0 +1,48 @@
+body { font-family:sansweb; font-size: 10pt; }
+.header {
+    width: 100%;
+    padding: 20px;
+    background-color: #F7F9FA;
+}
+.col-md-6 {
+    width: 50%;
+    float:right;
+}
+.col-md-3
+{
+    width:30%;
+    float: right;
+}
+.cart_img
+{
+    width:80%;
+    margin-right:10%;
+    margin-top:15px;
+    margin-bottom:15px;
+}
+.product_row {
+    border: 1px solid gainsboro;
+    width: 100%;
+    float: right;
+}
+.col-md-9
+{
+    width:70%;
+    float: right;
+}
+.col-md-9 div
+{
+    padding-top:5px;
+}
+.table {
+    width: 100%;
+    max-width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+.table tr td
+{
+    border: 1px solid #ddd;
+    padding-top:8px;
+    padding-bottom:8px;
+}
